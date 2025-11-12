@@ -9,11 +9,15 @@
 
 ## The Central Question
 
-**What types of information cannot be adequately represented by discrete mathematical structures?**
+**What types of information cannot be adequately represented by discrete mathematical structures? And what happens when discrete language attempts to control continuous cognition?**
 
 Current artificial intelligence systems—from transformers to large language models—rely almost exclusively on discrete representations: tokens, embeddings, categorical predictions. Yet continuous phenomena pervade nature: waves propagate through space, quantum states exist in superposition, emotions evolve dynamically, time flows without discrete boundaries.
 
-**This repository explores a foundational question**: Are there domains where discrete representations constitute a fundamental mismatch—where information loss from discretization cannot be recovered through scale, architecture, or training?
+**This repository explores two foundational questions**:
+1. Are there domains where discrete representations constitute a fundamental mismatch—where information loss from discretization cannot be recovered through scale, architecture, or training?
+2. How does discrete language control continuous cognitive substrates—and what does this reveal about the nature of thought and reality?
+
+**The answer may unify both questions**: Language functions as a measurement operator that collapses continuous possibility spaces into discrete outcomes, creating the path-dependent trajectories we experience as thought and behavior.
 
 ---
 
@@ -217,16 +221,66 @@ If so, artificial systems processing the same information types may require simi
 
 ---
 
-## Connection to Linguistic Dynamics
+## The Unified Framework
 
-This work complements [Linguistic Dynamics Theory](https://github.com/HillaryDanan/linguistic-dynamics-theory):
+**This work proposes a synthesis of two complementary principles**:
 
-**Spectral Representations**: What substrate should cognitive states live in?  
-**Linguistic Dynamics**: How do discrete linguistic inputs control continuous cognitive trajectories?
+### 1. Spectral Representations (Substrate)
+Cognitive states exist as **continuous wave-like substrates** with:
+- **Phase relationships** encoding temporal structure
+- **Interference patterns** representing mixed/ambivalent states
+- **Superposition** of multiple possibilities coexisting
+- **Continuous evolution** between discrete observations
 
-**Synthesis**: Language as discrete measurement of continuous cognitive waves—each linguistic input is a partial collapse of the continuous state space, creating path-dependent trajectories through sequential measurements.
+### 2. Linguistic Dynamics (Control)
+Language functions as **measurement operator** that:
+- **Collapses** continuous possibility spaces into discrete outcomes
+- **Creates** branching points through sequential measurement
+- **Generates** path-dependent trajectories (history matters)
+- **Shapes** reality by selecting which possibilities become actual
 
-**This explains path dependence**: Between linguistic inputs, continuous states evolve; each input measures and partially collapses the state, constraining future evolution.
+### The Synthesis
+
+$$\boxed{\text{Cognition = Continuous Wave Evolution + Discrete Linguistic Collapse}}$$
+
+**Between linguistic inputs**: Cognitive states evolve continuously, maintaining superposition  
+**At linguistic input**: Measurement collapses wave to discrete outcome  
+**Sequential collapse**: Creates path-dependent trajectories (emergent phenomenon)
+
+**This explains**:
+- Why prompt engineering works (strategic collapse sequencing)
+- Why LLMs show path dependence (continuous hidden states between measurements)
+- Why language shapes thought (measurement constrains evolution)
+- Why temporal/affective reasoning is hard (requires continuous substrate)
+
+**See companion framework**: [Linguistic Dynamics Theory](https://github.com/HillaryDanan/linguistic-dynamics-theory) - describes the trajectory dynamics that emerge from sequential wave collapse.
+
+---
+
+## Connection to Linguistic Dynamics Theory
+
+**Linguistic Dynamics Theory (LDT) emerges as the natural consequence** of the wave collapse framework:
+
+**Spectral Representations** (this work): What substrate exists? (continuous waves with superposition)  
+**Linguistic Dynamics**: What happens when we measure it? (collapse → path-dependent trajectories)
+
+**The relationship**:
+- **LDT describes trajectory formation** through sequential measurement of continuous cognitive waves
+- **Path dependence** emerges because continuous state evolves between measurements, encoding history
+- **Bifurcation points** are discrete collapses that constrain future continuous evolution
+- **Language as control parameter** = language as measurement operator
+
+**Unified insight**: **Language creates reality by collapsing continuous possibility spaces into discrete trajectories.**
+
+This explains phenomena across domains:
+- **Prompt engineering**: Strategic design of measurement sequence to guide trajectory
+- **Therapeutic reframing**: Linguistic substitution forces different collapse, enabling different evolution
+- **Educational scaffolding**: Questions as measurements that constrain knowledge state evolution
+- **Social construction**: Speech acts collapse social possibilities into institutional facts
+
+All are instances of the same principle: **discrete linguistic measurements controlling continuous cognitive substrates**.
+
+**Companion repository**: [Linguistic Dynamics Theory](https://github.com/HillaryDanan/linguistic-dynamics-theory) develops the trajectory dynamics and path dependence formalism in detail.
 
 ---
 
@@ -307,6 +361,6 @@ Standing on the shoulders of those who understood that representation matters.
 
 ---
 
-*"The map is not the territory—but perhaps for some territories, the map must preserve continuity, not just topology."*
+*"The map is not the territory—but perhaps for some territories, we must preserve the waves, not just the boundaries. And perhaps language is the observer that collapses those waves into experienced reality."*
 
 *— Working hypothesis, November 2025*
